@@ -17,7 +17,7 @@ void seviceForSeller();
 void seviceForBuyer();
 
 int main()
-{
+{//123
 	string n;
 	bool success = 0;
 	cout<<setw(55)<<"Welcome to the MyBooking system!"<<endl;
